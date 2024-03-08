@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.con{
+    margin-top: 24%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+    border-color:black ;
+    text-decoration: black;
+    size: 60%;
+
+    
+}
+#color{
+    color: white;
+}
+#color-code{
+    color: blueviolet;
+}
+
+button{
+    margin-left: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    
+    border: 100%;
+    border-color: black;
+}
+.re{
+    top: auto;
+    bottom: 20%;
+
+}
+h1{
+    background-color: black;
+}
