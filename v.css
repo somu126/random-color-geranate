@@ -28,9 +28,10 @@ button{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: white;
+    background-color: transparent;
     color: black;
     padding: 10px;
+    
     
     border: 100%;
     border-color: black;
